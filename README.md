@@ -3,7 +3,7 @@ Depositing and Withdrawing Money Project
 
 Part1 : Understanding aim of the project
 
-Part2 : Writing a basic Solidity Smart Contract
+Part2 : Writing a basic Solidity Smart Contract ( https://remix.ethereum.or  )
 
 Part3 : Deploying it on Remix with Goerli Test Network
 
